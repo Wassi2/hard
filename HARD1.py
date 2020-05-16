@@ -158,9 +158,9 @@ jalan("\033[1;92m | | ")
 
 jalan("\033[1;92m |_| ")
 
-CorrectUsername = "WASSI"
+CorrectUsername = "hard"
 
-CorrectPassword = "WASSI"
+CorrectPassword = "hard"
 
 loop = 'true'
 
